@@ -1,1 +1,4 @@
-my new line added by branch add patrick
+Hi! I'm Alicgie. I'm a file someone added to ssaamee line in master branch
+my second line
+added second line
+thrid line
